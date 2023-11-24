@@ -1,4 +1,4 @@
-![Header](https://github.com/Garbuzz/Garbuzz/blob/main/assets/%D0%93%D0%B8%D1%82.png)
+
 <h1 style="color:#FBC900">I'm Frontent beginner </h1>
 
 <h2 style="color:#FBC900"> Languages </h2>
